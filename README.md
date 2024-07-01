@@ -34,6 +34,7 @@ MFA_CODE = "your_mfa_code"  # Leave as empty string if not using MFA
 # Usage
 Run the bot:
 python trading_bot.py
+
 Follow the prompts to get stock quotes, buy stocks, or sell stocks. Enter 'exit' to quit.
 
 # Security
